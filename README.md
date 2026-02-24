@@ -3,9 +3,9 @@
 
 Specialized in cybersecurity and software development.
 
-**Technologies:** C/C++, Python, Haskell, ASM
+**Technologies:** Rust, C/C++, Python, Haskell, ASM
 
-Currently developing a server-side anticheat system focused on behavioral analysis.
+Currently developing a server-side anticheat system focused on behavioral analysis called - VigilanSee.
 
 **Notable Projects:**
 - [Rift Rewind](https://github.com/CrackedOnTiti/rift-rewind) - AI-powered League of Legends coaching agent with player analytics and cloud infrastructure (AWS x Riot hackathon)
