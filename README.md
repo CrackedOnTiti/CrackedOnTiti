@@ -132,14 +132,19 @@ Independent IT services company.
 
 **Struggler.** Big Berserk fan.
 
-<img src="https://media1.tenor.com/m/82-kovZdCk0AAAAC/guts-manga.gif" width="320"/>
+<div align="center">
+<img src="https://media1.tenor.com/m/82-kovZdCk0AAAAC/guts-manga.gif" width="480"/>
+</div>
+
+<br/>
+
+<img align="right" src="https://media.tenor.com/bHIDzZixRP8AAAAj/ippo-png.gif" width="245"/>
+
+<br/><br/>
 
 - **Martial arts and philosophy**
 - **Gym:** training regularly
 - **Gaming:** always
+- **Retired boxer:** planning a comeback in amateur, then pro
 
-**Retired boxer**, planning a comeback in amateur, then pro.
-
-<div align="center">
-<img src="https://media.tenor.com/bHIDzZixRP8AAAAj/ippo-png.gif" width="260"/>
-</div>
+<br/>
