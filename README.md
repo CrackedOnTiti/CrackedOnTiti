@@ -1,5 +1,5 @@
 # CrackedOnTiti
-## 4rd Year Student - Epitech Toulouse
+## 4th Year Student - Epitech Toulouse
 
 Specialized in cybersecurity and software development.
 [Portfolio](https://crackedontiti.github.io/)
