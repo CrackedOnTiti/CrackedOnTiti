@@ -128,6 +128,20 @@ Independent IT services company.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1A1A,50:B91C1C,100:1A1A1A&height=3" width="100%"/>
 
+## Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=CrackedOnTiti&background=1A1A1A&border=7F1D1D&stroke=7F1D1D&ring=E11D2E&fire=E11D2E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E11D2E&sideLabels=BBBBBB&dates=888888" width="560"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=CrackedOnTiti&style=for-the-badge&color=7F1D1D&label=PROFILE+VIEWS"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1A1A,50:B91C1C,100:1A1A1A&height=3" width="100%"/>
+
 ## Beyond the code
 
 **Struggler.** Big Berserk fan.
