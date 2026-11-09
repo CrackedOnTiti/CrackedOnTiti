@@ -61,7 +61,7 @@ Independent IT services company.
 <tr>
 <td width="50%" valign="top">
 
-<b>Co-founder and Co-lead</b><br/>
+<b>Founder and Co-lead</b><br/>
 <b>Epitech Toulouse Cybersecurity Club</b><br/>
 <sub>2024 to 2026 · 2.5 years</sub>
 <br/><br/>
