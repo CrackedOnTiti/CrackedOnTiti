@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://crackedontiti.github.io/"><img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge"/></a>
+<a href="https://crackedontiti.dev/"><img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge"/></a>
 <a href="https://www.linkedin.com/in/thierry-bungaroo"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge"/></a>
 <a href="https://crackedontiti.github.io/#contact"><img src="https://img.shields.io/badge/Contact-7F1D1D?style=for-the-badge"/></a>
 
