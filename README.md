@@ -119,7 +119,7 @@ Independent IT services company.
 
 **Systems:** `Unix processes & syscalls` `Memory debugging (ASan, Valgrind)` `Compilers & bytecode VMs`
 
-**Also:** `XGBoost` `Zeek` `WireGuard` `Raspberry Pi` `AWS Bedrock`
+**Also:** `XGBoost` `Zeek` `WireGuard` `Raspberry Pi` `AWS Bedrock` `S3`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1A1A,50:B91C1C,100:1A1A1A&height=3" width="100%"/>
 ## Education
